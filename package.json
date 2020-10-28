@@ -1,0 +1,19 @@
+{
+  "name": "aimherodatavis",
+  "version": "1.0.0",
+  "description": "Data visualization for CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ais047/AimHeroDataVis.git"
+  },
+  "author": "Aeyis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ais047/AimHeroDataVis/issues"
+  },
+  "homepage": "https://github.com/ais047/AimHeroDataVis#readme"
+}
